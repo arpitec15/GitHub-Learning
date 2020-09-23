@@ -12,5 +12,6 @@ public class HomeController {
 		System.out.println("In Home Page");
 		
 		return "home";
+//testing
 	}
 }
